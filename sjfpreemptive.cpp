@@ -6,7 +6,7 @@ int i, smallest, count = 0, time, limit;
 double wait_time = 0, turnaround_time = 0, end;
 float average_waiting_time, average_turnaround_time;
  
-printf("nEnter the Total Number of Processes:t");
+printf("nEnter the Total Number of Processes: ");
 scanf("%d", &limit);
  
 printf("nEnter Details of %d Processesn", limit);
